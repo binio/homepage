@@ -37,3 +37,16 @@ p {
     font-size: 1.3em;
     padding-top: 25px;
 }
+
+/*ABOUT*/
+
+.about{
+    padding: 100px 0px 100px;
+    text-align: center;
+}
+
+.about h1 {
+    font-size: 1.8em;
+    color: #337ab7;
+    padding: 0 0 25px;
+}
