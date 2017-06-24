@@ -1,0 +1,28 @@
+.navbar {
+    background-color: #242424;
+    border-bottom: 1px solid #b9b9b9;
+}
+
+.navbar a {
+    color: #cccccc !important;
+}
+
+.navbar a:hover {
+    color: #ffffff !important;
+    background-color: #646464 !important;
+}
+
+/*HEADER*/
+.header {
+    padding: 140px 0px 0px 10px;
+    background: url(../img/bg.jpg) no-repeat center center;
+    background-size: cover;
+    width:100%;
+    border-bottom: 2px solid #c9c9c9;
+}
+
+.header h1 {
+    color: white;
+    font-family: 'Pacifico', cursive;
+    font-size: 7.5em;
+}
