@@ -65,5 +65,25 @@ p {
 .features h1 {
     font-size: 1.8em;
     color: white;
-    padding: 0 0 25px;m;
+    padding: 0 0 25px;
+}
+
+/*CLIENTS*/
+.clients h1 {
+    font-size: 1.8em;
+    text-align: center;
+    color: #337ab7;
+    padding: 0 0 25px;
+}
+
+.clients .row div img {
+    opacity: 0.3
+}
+
+.clients .row div img:hover {
+    opacity: 1.0
+}
+.clients p {
+    text-align: center;
+    padding: 0 0 25px;
 }
